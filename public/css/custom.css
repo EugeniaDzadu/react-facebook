@@ -1,0 +1,28 @@
+body{
+    background-color: #f0f2f5;
+}
+
+.p-2{
+    padding: 0.7rem !important;
+    margin-left: 10%;
+}
+
+.login{
+    margin-left: 10%;
+}
+
+.btn-success{
+    background-color: #42B72A;
+    border-color: #42B72A;
+    margin-left: 23%;
+}
+
+#formcontainer{
+    background-color: #fff;
+    width: 80%;
+}
+
+p{
+    margin-left: 10%;
+    margin-top: 3%;
+}
